@@ -1,11 +1,11 @@
 # Site Info
-title:              "GershomJ"
-description:        "A distraction-free blog."
-author_name:        "Gershom James" # change this to your name
-logo_url:           https://avatars.githubusercontent.com/u/68448975?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "The Book of Records"
+description:        "A diary of my life."
+author_name:        "Amy" # change this to your name
+logo_url:           https://api.github.com/users/thebookofrecords # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://gershomj.github.io # main url
+url:                https://thebookofrecords.github.io # main url
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
